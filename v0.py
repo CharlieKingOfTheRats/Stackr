@@ -1,4 +1,4 @@
-# Copyright © 2025 ParthenonAI Solutions. All rights reserved.
+# Copyright © 2025 PantheonAI Solutions. All rights reserved.
 
 import os
 import openai
